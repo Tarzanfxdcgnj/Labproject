@@ -26,3 +26,4 @@
 /Users/admin/Documents/RGU First Semester/ CM2115 - Advanced Software Design and Development/FinalAssessment/Labproject/obj/Debug/net9.0/Labproject.pdb
 /Users/admin/Documents/RGU First Semester/ CM2115 - Advanced Software Design and Development/FinalAssessment/Labproject/obj/Debug/net9.0/Labproject.genruntimeconfig.cache
 /Users/admin/Documents/RGU First Semester/ CM2115 - Advanced Software Design and Development/FinalAssessment/Labproject/obj/Debug/net9.0/ref/Labproject.dll
+/Users/admin/Documents/RGU First Semester/ CM2115 - Advanced Software Design and Development/FinalAssessment/Labproject/obj/Debug/net9.0/Labproject.sourcelink.json
